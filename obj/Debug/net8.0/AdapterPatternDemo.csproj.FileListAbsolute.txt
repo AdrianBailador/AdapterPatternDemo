@@ -1,0 +1,15 @@
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/bin/Debug/net8.0/AdapterPatternDemo
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/bin/Debug/net8.0/AdapterPatternDemo.deps.json
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/bin/Debug/net8.0/AdapterPatternDemo.runtimeconfig.json
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/bin/Debug/net8.0/AdapterPatternDemo.dll
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/bin/Debug/net8.0/AdapterPatternDemo.pdb
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/AdapterPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/AdapterPatternDemo.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/AdapterPatternDemo.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/AdapterPatternDemo.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/AdapterPatternDemo.sourcelink.json
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/AdapterPatternDemo.dll
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/refint/AdapterPatternDemo.dll
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/AdapterPatternDemo.pdb
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/AdapterPatternDemo.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/Projects Adri/AdapterPatternDemo/obj/Debug/net8.0/ref/AdapterPatternDemo.dll
